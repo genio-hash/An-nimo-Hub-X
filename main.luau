@@ -1,5 +1,5 @@
 local Settings = {
-  JoinTeam = "Pirates";  -- Alternar para "Marines", se preferir
-  Translator = true;     -- true ou false
+    JoinTeam = "Pirates", -- ou "Marines"
+    Translator = true
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/genio-hash/An-nimo-Hub-X/main/main.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/newredz/BloxFruits/main/Source.luau"))(Settings)
