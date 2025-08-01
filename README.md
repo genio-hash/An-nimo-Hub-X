@@ -1,6 +1,3 @@
--- Anônimos Hub básico para Blox Fruits
--- Toggle F4, botão sair, Auto Farm, ESP, Fast Attack
-
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local UserInputService = game:GetService("UserInputService")
